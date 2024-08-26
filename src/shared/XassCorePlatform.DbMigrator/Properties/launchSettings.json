@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XassCorePlatform.DbMigrator": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
